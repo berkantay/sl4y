@@ -44,13 +44,13 @@
           "type": "session"
         },
         {
-          "background": "#2f2f2f",
+          "background": "#444444",
           "foreground": "#cccccc",
           "properties": {
             "folder_icon": "\u2026",
             "style": "mixed"
           },
-          "style": "lego",
+          "style": "plain",
           "template": " {{ .Path }} ",
           "type": "path"
         },
@@ -133,7 +133,7 @@
               "lua": ">",
               "nu": ":)",
               "fish": "~>",
-              "zsh": "( ◕▿◕ ) ",
+              "zsh": ">_",
               "bash": "$"
             }
           }
